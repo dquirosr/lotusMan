@@ -1,0 +1,2 @@
+# lotusMan
+Test Loto Simulator
